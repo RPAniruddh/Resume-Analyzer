@@ -1,0 +1,93 @@
+
+Aniruddh R Panicker
+Ernakulam, Kerala | +91 7025871290 | aniruddhrpanicker@gmail.com | linkedin.com/in/aniruddh-r-panicker-3708b7249 |
+github.com/RPAniruddh
+PROFESSIONAL SUMMARY
+
+Programmer Analyst Trainee at Cognizant, skilled in Java Spring Boot and React for full-stack development. Focused on building
+efficient and scalable applications while refining technical expertise.
+
+TECHNICAL SKILLS
+Programming Languages : Java, JavaScript, HTML, CSS, SQL, PostgreSQL
+Frameworks & Libraries : Spring Boot, Bootstrap
+Tools & Technologies : Git, Postman, Docker, Apache Kafka, AWS
+
+EXPERIENCE
+Programmer Analyst Trainee | Cognizant December 2024 - Present
+
+– Engineered and supported responsive web applications with a focus on optimal user experience.
+– Trained in Java , Springboot , React focused on fullstack Developement
+– Made projects as part of hands on learning.
+
+Full Stack intern | Luminar Technolab July 2024 - January 2025
+– Developed and maintained responsive web applications, ensuring a seamless user experience.
+– Collaborated with cross-functional teams to design, implement, and optimize web solutions.
+– Utilized modern front-end and back-end technologies to enhance website functionality and performance.
+
+Intern | Sinergia Media Labs (Simelabs) May 2023
+– Engineered a full-stack e-commerce web application leveraging Node.js, Express.js, and MongoDB, streamlining the online
+
+shopping process for customers.
+– Spearheaded the implementation of key features including product listing, shopping cart, and checkout functionalities,
+
+boosting user engagement and conversion rates by 25%.
+– Optimized database queries and indexing strategies in MongoDB, slashing page load times by 30% and enhancing overall
+
+website performance.
+PROJECTS
+
+Gym Management | Java, Spring Boot, React, JavaScript, MySQL March 2025
+– Designed and developed a microservices-based Gym Management System using Spring Boot. Eureka for service discovery,
+
+and API Gateway for routing.
+– Built a Member Management Service for profiles, subscriptions, and renewals, plus a Fitness Tracking Service for logging
+
+workouts and monitoring progress.
+– Integrated Security Service with JWT-based authentication and role-based authorization for secure access control.
+– Built a responsive frontend with React to enhance user experience and streamline operations.
+
+Intelligent Tourism Companion | Python, React, JavaScript, Flask, MOTRR March 2024
+– Spearheaded development of "Intelligent Tourism Companion" web and mobile app using Python, React, JavaScript, and
+
+Flask.
+– Implemented ML model for personalized destination recommendations based on weather, seasonality, and user preferences.
+– Engineered virtual travel assistant providing real-time guidance, directions, and transportation options.
+– Enhanced user experience with tailored itineraries and up-to-date travel information.
+
+Conversational Chat Bot based of Open AI API | Python, React, TypeScript June 2023
+– Developed a domain-specific conversational chatbot using OpenAI API and NLP techniques.
+– Implemented web scraping to generate structured JSON data for accurate and current information.
+– Engineered user-friendly interface for natural language interaction.
+– Optimized chatbot to provide relevant domain-specific responses. Enhanced user experience with personalized and effective
+
+information delivery.
+EDUCATION
+
+Toc H Institute of Science & Technology B.Tech in Computer Science and Engineering | GPA : 8.42 August 2020 – May 2024
+Bhavan’s Munshi Vidyashram 12th | Percentage : 83.8% June 2019 – April 2020
+
+AWARDS AND CERTIfiCATIONS
+SQL (Advanced) | HackerRank 2025
+Java Spring Framework 6 with Spring Boot 3 | Udemy 2025
+Webflow 101 | Webflow University 2024
+Intelligent tourism planning using MOTRR | ICRTCIS 2024
+JavaScript | Udemy 2023
+
+ACHIEVEMENTS
+Event co-ordinator : Organized and coordinated TECHFOSS’23, a prominent tech-fest hosted by the Computer Science and
+Engineering Department at Toc H Institute of Science & Technology.
+First place in CTF : Achieved first place in the Capture the Flag (CTF) at a National Tech Fest (Tech FOSS) in 2022, demonstrating
+exceptional skills in problem-solving, and teamwork.
+
+mailto:aniruddhrpanicker@gmail.com
+https://www.linkedin.com/in/aniruddh-r-panicker-3708b7249
+https://github.com/RPAniruddh
+
+	Professional Summary
+	Technical Skills
+	Experience
+	Projects
+	Education
+	Awards and Certifications
+	Achievements
+

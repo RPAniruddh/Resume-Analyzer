@@ -1,6 +1,7 @@
 import React from 'react'
 import { useState } from 'react'
 import axios from "axios"
+import { toast } from 'react-toastify';
 
 const SignIn = () => {
 
@@ -16,9 +17,15 @@ const SignIn = () => {
                 password
             });
 
+            toast.success("Welcome")
             localStorage.setItem("jwtToken", response.data)
+
         } catch (error) {
-            console.log(error);
+            if (error.response && error.response.status === 401) {
+                toast.error('Either email or password is wrong, please check again.');
+            } else {
+                toast.error('There was an error!', error);
+            }
         }
     }
 

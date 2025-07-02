@@ -1,7 +1,8 @@
 import axios from "axios";
 import React, { useState } from "react";
+import { toast } from "react-toastify";
 
-export const SignUp = () => {
+const SignUp = () => {
     const [formData, setFormData] = useState({
         name: "",
         email: "",
@@ -21,9 +22,9 @@ export const SignUp = () => {
 
         try {
             const response = await axios.post("http://localhost:8082/auth/signup", formData);
-            console.log(response.data);
+            toast.success(response.data);
         } catch (error) {
-            console.log(error.message);
+            toast.error(error.message);
         }
     };
 
@@ -85,3 +86,5 @@ export const SignUp = () => {
         </>
     );
 };
+
+export default SignUp;

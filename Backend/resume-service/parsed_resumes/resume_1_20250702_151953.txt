@@ -1,0 +1,148 @@
+HARIPRASATH V
+Programmer Analyst Trainee
+
+
+   
+                                                                                                                                      		2370831@cognizant.com
+
+			9894700141
+
+	hariprasath-v-89499b208
+
+
+
+
+ Summary _____________________________________________________________________________
+
+I am a recent graduate in Computer Science and Engineering.Passionate towards frontend technologies and I have worked on few personal projects as well. I intend to be a part of an organization where I can constantly learn and develop my technical and management skills. I look forward to establishing myself by adapting new technologies as well.
+Areas of expertise
+
+
+
+
+
+• Data Structures
+• Web Development
+•  Databases
+
+
+
+
+
+Internship experience _______________________________________________________________
+
+
+
+
+
+
+AICTE
+        ROBOTIC PROCESS AUTOMATION VIRTUAL INTERNSHIP
+·  Acquired proficiency in Robotic Process Automation (RPA) techniques.
+· Automated tasks in Microsoft Word, Excel, and other Office applications.
+· Gained hands-on experience with RPA tools and technologies.
+· Improved efficiency and accuracy in repetitive tasks through automation.
+
+
+
+Dec 2022-Feb 2023
+
+
+Education ____________________________________________________________________________
+
+
+
+
+
+B. Tech, Sri Manakula Vinayagar Engineering College, Puducherry, India
+2020 - 2024
+Higher Secondary, Holy Flowers higher secondary school, Puducherry, India
+2019 - 2020
+
+ 8.98  CGPA 
+
+ 84.8  Percentage
+
+
+
+
+
+
+
+
+Language _______________________            Skills ____________________________________
+
+
+
+
+
+	English
+Tamil
+
+Java
+HTML, CSS Javascript
+SpringBoot
+MySQL
+
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1/2
+© 2022 Cognizant. All rights reserved.
+
+Sri Manakula Vinayagar Engineering College, Puducherry, India.
+
+
+Cognizant 
+Coimbatore, India.
+
+
+
+
+
+
+
+
+Sri Manakula Vinayagar Engineering College, Puducherry, India.
+
+
+HYPERLOCAL E-COMMERCE APPLICATION
+
+Developed a Blockchain based platform to connect local sellers with customers, ensuring secure, transparent, and decentralized transactions. Developed a responsive frontend using ReactJS and seamless backend operations using NodeJS.
+
+SIGN LANGUAGE RECOGNITION AND RESPONSE VIA VR
+Developed a Sign Language Recognition system utilizing Python, focusing on Digital Image Processing techniques. The project involved capturing and processing hand gestures to translate sign language into text and vice versa.
+
+ONLINE AUCTION SYSTEM
+Developed a robust Online Auction System utilizing Spring Boot for the backend. The project involved creating and managing auction events, where users can list items for auction and place bids. The system integrates seamlessly with a MySQL database, ensuring efficient data management and retrieval.
+Project experience _________________________
+2/2
+© 2022 Cognizant. All rights reserved.
+
+image3.png
+
+image4.png
+
+image5.png
+
+image1.jpeg
+
+image2.jpeg
+
+image2.png
+

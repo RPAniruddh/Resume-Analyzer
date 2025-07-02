@@ -40,7 +40,7 @@ public class ResumeService {
 			List<String> skills = extractor.extractSkills(content);
 			
 			Resume resume = new Resume();
-			resume.setId(1);
+			resume.setId(id);
 			resume.setSkills(skills);
 			resume.setParsed_file_path(filepath);
 

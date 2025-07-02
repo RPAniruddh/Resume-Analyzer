@@ -1,0 +1,57 @@
+HARIPRASATH V
+Hariprasath.V@cognizant.com   | +91 9894700141 
+	Summary
+
+
+
+A Computer Science Engineering graduate passionate towards full stack technologies, worked on few personal projects. I intend to be a part of an organization where I can constantly learn and develop my technical skills and looking forward to establishing myself by adapting new technologies.
+	Education 
+
+
+
+	SRI MANAKULA VINAYAGAR ENGINEERING COLLEGE, Puducherry
+	2020-24 
+
+
+ Bachelor of Technology, Computer Science Engineering 
+	Professional experience 
+
+
+
+	Cognizant, Coimbatore                                                                                         
+	Oct 2024 - present
+
+
+Programmer Analyst Trainee
+Completed training in Java Full Stack development, gaining proficiency in Core Java, React, Spring Boot, and SQL.
+ Developed dynamic and responsive web applications using React and Spring Boot, ensuring functionality and performance through robust backend services.
+	Projects
+
+
+
+	ONLINE AUCTION SYSTEM
+
+· Developed a robust Online Auction System using Spring Boot for the backend, integrating a MySQL database for seamless data management and retrieval.
+
+· Implemented secure user authentication and authorization with JWT and streamlined database interactions with JPA.
+
+· Built and tested RESTful APIs, ensuring efficient communication between components, with rigorous testing conducted using JUnit and Mockito to ensure reliability.
+
+
+	Jan 2025
+
+
+   HYPERLOCAL ECOMMERCE APPLICATION USING BLOCKCHAIN                                                              Mar 2024                                                                   
+· Built a blockchain-based platform connecting local sellers with customers, ensuring secure, transparent, and decentralized transactions.
+
+· Developed a responsive frontend using ReactJS and ensured seamless backend operations with Spring Boot for robust performance and user experience.
+
+	Skills 
+
+
+
+Programming languages: Java, HTML, CSS, JavaScript
+Frameworks / Libraries:  Spring Boot, React, Junit
+Technologies: MySQL, Microservices, Docker, GitHub 
+
+
